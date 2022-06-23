@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Drycc Workflow is an open source container cloud platform.
+***Drycc, the only Container as a Service (CaaS) you need.***
 
-Usually we also call it Container as a Service(CaaS) that adds a developer-friendly layer to any Kubernetes cluster, making it easy to deploy and manage applications.
-
-Drycc Workflow includes capabilities for building and deploying from source via git push, simple application configuration, creating and rolling back releases, managing domain names and SSL certificates, providing seamless edge routing, aggregating logs, and sharing applications with teams. All of this is exposed through a simple REST API and command line interface.
+* Native to Kubernetes, Drycc is the Container as a Service suite available on every public cloud, every Kubernetes distribution, the private cloud and the edge.
+* Open Source from Day One. Leverage the power of global innovation with the leading database open source community.
+* Both X86 and ARM64 are supported with binaries and multiarch images available for both. Drycc works great from something as small as a AWS a1.4xlarge 32GiB server.
